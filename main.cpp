@@ -17,7 +17,7 @@ using namespace std;
 
     cout << "sum1:"<<sum1 << " ";
 
-    vector<string> msg {"Hello", "C++ fdjk dkjd ", "World", "from", "VS Code", "and the C++ extension!"};
+    vector<string> msg {"Hello", "C++ fdjk dkjd ", "World stuff", "from", "VS Code", "and the C++ extension!"};
 
     for (const string& word : msg)
     {
