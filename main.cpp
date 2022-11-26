@@ -15,7 +15,7 @@ using namespace std;
     int sum1 = widget1.sum();
     cout << "sum1:"<<sum1 << " ";
 
-
+    cout << "sum1:"<<sum1 << " ";
 
     vector<string> msg {"Hello", "C++ fdjk dkjd dka", "World", "from", "VS Code", "and the C++ extension!"};
 
